@@ -15,9 +15,6 @@ This Tableau dashboard analyzes sales and customer performance for a central reg
 - Sample Superstore Dataset
 
 ## 📸 Dashboard Preview
-![Central Superstore Dashboard](central_superstore_dashboard.png)
+![Central Superstore Dashboard](https://public.tableau.com/views/central_superstore/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## 👤 Author
-**[Your Name]** – Data Analyst | BI Developer  
-📧 [your.email@example.com]  
-🌐 [Your LinkedIn or Portfolio]
+
